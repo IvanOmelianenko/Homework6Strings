@@ -8,7 +8,7 @@ public class Main {
         String word2 = "World";
         String name = "John";
         String lastName = "Doe";
-        String faculty = "Physics";
+        String faculty = "Mathematics";
         String format = String.format("%s %s", word1, word2);
         System.out.println(word1 + " " + word2);
         System.out.println(word1.concat(" " + word2));
